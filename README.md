@@ -12,7 +12,7 @@ Use a popular injector (Xenos/Extreme Injector/Etc.) and inject into rdr2.exe
 - `core/` : Essential general features for the base
 - `game/` : Game specific implemented things
 - `util/` : Loose functions that aren't game specific
-
+ 
 ## Screenshots / UI Design
 
 ![image](https://github.com/user-attachments/assets/e7280722-9ea0-49e5-b6ae-299ebb2a071d)
